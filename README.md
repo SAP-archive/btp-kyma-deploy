@@ -2,7 +2,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-# [Kyma Deploy]
+# Kyma Deploy
 
 ## Description
 A machine learning architecture that enables the simple deployment of containerized pre-trained models. Easily plug in a trained model to the predefined architecture, deploy to Kyma runtime and create a flexible prediction endpoint to solve business-critical problems.
