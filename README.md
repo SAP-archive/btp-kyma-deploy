@@ -2,7 +2,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-# Kyma Deploy
+# Deploying a Machine Learning Model with SAP Kyma
 
 ## Description
 A machine learning architecture that enables the simple deployment of containerized pre-trained models. Easily plug in a trained model to the predefined architecture, deploy to Kyma runtime and create a flexible prediction endpoint to solve business-critical problems.
@@ -80,8 +80,7 @@ Curl should also be preinstalled on Windows but if not refer to the [official do
 
 3. You can copy the content from file ‘sample_data.json’ in our source folder and replace your_json_data in the command. You will also need to replace API_URL with the one we created earlier.
 
-If everything is OK, you should be able to see the predicted result after the predictions attribute
-## Known Issues
+If everything is OK, you should be able to see the predicted result after the predictions attribute.
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
