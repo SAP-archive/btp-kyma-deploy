@@ -36,9 +36,9 @@ Curl should also be preinstalled on Windows but if not refer to the [official do
 
 2.  Open Mac terminal and make sure you are in the kyma_ml_example directory (since we will run all the commands from there).
 
-3.  Make sure Docker is installed and Docker Desktop is running. You should be able to see the Docker version with the following command: docker -v.
+3.  Make sure Docker is installed and Docker Desktop is running. You should be able to see the Docker version with the following command: `docker -v`
 
-4. Build a Docker image with this command: docker build -t kyma-ml-example .
+4. Build a Docker image with this command: `docker build -t kyma-ml-example .`
 - Please notice there is a dot at the end of the command.
 
 5. Run command `docker images` to make sure the image is already in the repository.
