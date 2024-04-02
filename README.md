@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-kyma-deploy)](https://api.reuse.software/info/github.com/SAP-samples/btp-kyma-deploy)
 
